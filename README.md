@@ -1,3 +1,5 @@
+EXtra curricula progejct where I have to find if there pattern in a dicom image to recognise breast tumors from the image implementing a ml -algorithm. Not yet finisched
+
 # Dicom_to_Image
 
 Simplest and easiest program to convert the dicom file into jpeg or png or any other format with high contrast levels.
